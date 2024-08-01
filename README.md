@@ -5,6 +5,7 @@ This repository contains a collection of guides for setting up various applicati
 ## Available Guides 📖
 
 - [Unifi Application Latest with MongoDB 4.0](Unifi_Network_Application.md)
+- [Uptime Kuma Monitoring Setup](uptime-kuma-monitoring-setup.md)
 
 ## License 📄
 
